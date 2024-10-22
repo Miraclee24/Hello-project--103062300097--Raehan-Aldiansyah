@@ -1,3 +1,5 @@
+//Raehan Aldiansyah
+//103062300097
 package main //mulai program
 
 import (
